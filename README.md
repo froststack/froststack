@@ -18,17 +18,12 @@
 
  <p align="right">
 
-- pursuing a bachelor's degree in computer science. 26th batch of Cyber Security (Hons) graduates
-
-- I'm studying Python and C++ right now for <a href="https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series" target="blank">140 DSA Lec</a>
-
 - I'm open to freelance work.
 
-- Let's talk about **Graphics Design**
+- Let's talk about **Web Developpement**
 
-- How to contact me  **kalistoroy619@gmail.com**
+- How to contact me  **frost@kaoricafe.fr**
 
-- Know about my experiences <a href="https://github.com/D3FaltXD/Resume/blob/main/090519452530.pdf" target="blank">Resume</a></p>
 </div>
 <br><br>
 <div>
@@ -47,31 +42,3 @@
 <img width="100%" src="https://github.com/D3FaltXD/D3FaltXD/blob/f2ad32c1dcdb414cd838c42540e6aa0734b4efd0/Images/tools.png"></p></div>
 <div>
 <br> <br><br><br>
-<p ><h1 align="right"><strong>N O W &nbsp; P L A Y I N G</h1></strong></p>
-<p align="left" >
-<div style="margin-left: 100px;">
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=idqfn88p4khb76ky8ouqdkhc8&cover_image=true&theme=default&bar_color=ffffff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-<img src=https://github.com/D3FaltXD/D3FaltXD/blob/f7bbc4c740c863c701588d4fd889ac4a9fda5759/Images/img%20right%201.png align="right">
-</div>
-<br> <br><br><br>
-<h1 align="center"><strong> Connect with me </h1></strong>
-
-<p align="center">
-
-<div align="center"  class="icons-social" style="margin-left: 10px;">
- <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/sayan-roy-b138b9199/">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/D3FaltXD">
-		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/d3faltxd/">
-			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/G2Ahri">
-			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
-		<a style="margin-left: 5px;" target="_blank" href="https://github.com/D3FaltXD/Resume/blob/main/090519452530.pdf">
-					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
-      </div>
-
-</p>
-
-[![@D3FaltXD's Holopin board](https://holopin.io/api/user/board?user=d3falt)](https://holopin.io/@d3falt)
