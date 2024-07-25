@@ -8,7 +8,7 @@
 <p><br>
 <emphasis>T E C H &nbsp; A N D &nbsp;  T H E&nbsp;  A R TS.
 <br> G E E K  &nbsp; O F &nbsp; C Y B E R &nbsp; S E C U R I T Y.
-<br> G R A P H I C &nbsp;  A R T I S T.</emphasis>
+<br> W E B &nbsp;  D E V.</emphasis>
 <img src="https://github.com/D3FaltXD/D3FaltXD/blob/9f2ea1d3dd0ad5a68b38df5153b809fd9bb2efce/Images/image_2022-09-17_164824017.png">
 </p>
 <p>
